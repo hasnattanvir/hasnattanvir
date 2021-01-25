@@ -1,4 +1,6 @@
-### Hi there 👋
+### Here are some ideas about me:*
+
+- 🏢 I’m currently studying in *Computer Science and Engineering* 👋
 
 <!--
 **hasnattanvir/hasnattanvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
